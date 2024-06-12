@@ -1,2 +1,2 @@
-# DeepLearning
- Coding Exercises for Deep Learning with Python 2nd Edition by Francois Chollet
+# Machine Learning
+ Notes and exercises for Machine Learning courses, books, etc.
