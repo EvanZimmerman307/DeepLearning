@@ -1,2 +1,2 @@
 # Machine Learning
- Notes and exercises for Machine Learning courses, books, etc.
+ Notes and exercises for machine learning courses, books, etc.
